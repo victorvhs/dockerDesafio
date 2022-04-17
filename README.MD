@@ -11,6 +11,6 @@ A imagem não pode ser maior que 2mb.
 
 Utilizando da técnica de Multistage Build para gerar uma imagem de tamanho reduzido.
 
-Link para imagem no docker Hub: https://hub.docker.com/repository/docker/vhreis/codeeducation
+Link para imagem no docker Hub: https://hub.docker.com/r/vhreis/codeeducation
 
 Link do curso: https://fullcycle.com.br/
